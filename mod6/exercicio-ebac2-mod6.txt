@@ -1,0 +1,34 @@
+// Algoritmo: Rotina de Acordar
+
+inicio
+    // 1. Acordar
+    Abrir os olhos;
+    Desligar o despertador;
+    
+    // 2. Levantar da cama
+    Levantar a cabeça;
+    Sentar na cama;
+    Colocar os pés no chão;
+    Empurrar o corpo para cima com as mãos;
+    Ficar de pé;
+
+    // 3. Higiene pessoal
+    Ir até o banheiro;
+    Escovar os dentes;
+    Lavar o rosto;
+
+    // 4. Vestir-se
+    Escolher as roupas;
+    Vestir a roupa;
+
+    // 5. Café da manhã
+    Ir até a cozinha;
+    Preparar o café da manhã;
+    Comer;
+
+    // 6. Sair de casa
+    Pegar a chave de casa;
+    Sair de casa;
+    Trancar a porta;
+
+fim
