@@ -3,10 +3,9 @@ package br.com.cacau;
 public class Valor {
     public static void  main(String args[]) {
 
-        Long num = 123456L;
-        System.out.println(num);
+        long numPrimitivo = 10;
+        Long numWrapper = numPrimitivo;
+        System.out.println(numWrapper);
 
-        long num1 = Long.valueOf(456789);
-        System.out.println(num1);
     }
 }
